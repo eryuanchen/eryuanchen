@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @eryuanchen
-- 👀 I’m interested in macroeconomics and financial economics.
-- 🌱 I’m currently learning some Python skills.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : eayuan.chen#gmail.com (#\to@)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m @eryuanchen, interested in macroeconomics and financial economics.
+I’m currently learning some Python skills.
+Please contact me at: eayuan.chen#gmail.com (#\to@)
 
 <!---
 eryuanchen/eryuanchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
